@@ -1,0 +1,26 @@
+[
+  {
+    "placeImage": "images/hawkers.jpg",
+    "placeName": "Menu Estudiante",
+    "placeItems": ["Burgers","Americana","Comida Rapida"],
+    "minOrder": "9.50€"
+  },
+  {
+    "placeImage": "images/flipping.jpg",
+    "placeName": "Fideos Noodles",
+    "placeItems": ["Noodles","China","Comida Rapida"],
+    "minOrder": "7.90€"
+  },
+  {
+    "placeImage": "images/pizzahut.jpg",
+    "placeName": "Pizza 4 Quesos",
+    "placeItems": ["Pizza","Italiana","Comida Rapida"],
+    "minOrder": "12.50€"
+  },
+  {
+    "placeImage": "images/bluehill.jpg",
+    "placeName": "Bistec De Ternera",
+    "placeItems": ["Bistec","Española","Comida Rapida"],
+    "minOrder": "16.25€"
+  }
+]
